@@ -1,4 +1,4 @@
-# Face-Unmasking-Cycle-Gan
+# Face-Unmasking-GAN
 
 This repo is built to model a face mask unmasking model using Pix-2-Pix model.
     
