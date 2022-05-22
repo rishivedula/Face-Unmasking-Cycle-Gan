@@ -10,5 +10,5 @@ anaconda = 4.9.2
 ```
 
 ## Author
-Rishi Satyanarayan Vedula <br />
+Rishi Vedula <br />
 [rishivedula@gmail.com](rishivedula@gmail.com)
